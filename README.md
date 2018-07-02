@@ -1,4 +1,4 @@
-# womens-health
+# reprohealth
 Excerpts from Gapminder and World Bank data with indicators for women's health
 
 # Data sources
@@ -23,6 +23,8 @@ Excerpts from Gapminder and World Bank data with indicators for women's health
 - [Gapminder: Average age at 1st marriage (girls)](https://www.gapminder.org/data/documentation/gd009/)
 
 # Resources
+
+- [WHO's short list of reproductive health indicators for global monitoring](https://www.measureevaluation.org/prh/rh_indicators/family-planning/global/whos-short-list-of-reproductive-health-indicators-for-global-monitoring)
 
 - [R package for accessing World Bank data](https://cran.r-project.org/web/packages/wbstats/)
   - [Vignette](https://cran.r-project.org/web/packages/wbstats/vignettes/Using_the_wbstats_package.html)

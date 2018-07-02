@@ -1,0 +1,23 @@
+Package: reprohealth
+Version: 0.0.0.9000
+Title: Data on Global Women's Health from World Bank and Gapminder
+Description: An excerpt of the data available at Gapminder.org and data.worldbank.org. For each of 142
+    countries, the package provides values for life expectancy, contraception,
+    fertility rates, maternal mortality, and school enrollment, every five years, from 1952 to 2007.
+Authors@R: person("Alison", "Hill", , "apresstats@gmail.com", c("aut", "cre"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+Suggests: 
+    dplyr,
+    tidyr,
+    readr,
+    stringr,
+    janitor,
+    purrr,
+    ggplot2,
+    wbstats,
+    gapminder
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
