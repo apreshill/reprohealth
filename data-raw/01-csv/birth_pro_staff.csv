@@ -1,0 +1,1253 @@
+geo_name,year,perc_births_attended
+Guatemala,1984,35
+Morocco,1984,24
+El Salvador,1985,85.4
+Belarus,1986,100
+Colombia,1986,71
+Costa Rica,1986,97
+Dominican Rep.,1986,89.7
+Germany,1986,100
+Kuwait,1986,96
+Liberia,1986,58.1
+Luxembourg,1986,100
+Peru,1986,49.2999992371
+Poland,1986,99
+Senegal,1986,41.4
+Belgium,1987,100
+Burundi,1987,19.1
+Canada,1987,100
+Denmark,1987,100
+Ecuador,1987,61.3
+Guatemala,1987,29.2
+Honduras,1987,42.1
+Indonesia,1987,36.3
+Israel,1987,99
+Mali,1987,31.9
+Mexico,1987,69.4
+Morocco,1987,26
+Oman,1987,87
+Sri Lanka,1987,87.0999984741
+Sweden,1987,100
+Thailand,1987,69
+Trinidad and Tobago,1987,97.9
+Botswana,1988,77.5
+Egypt,1988,34.6
+El Salvador,1988,90
+Ghana,1988,40.2
+Norway,1988,100
+Togo,1988,31.2999992371
+Tunisia,1988,69
+Zimbabwe,1988,69.6
+Albania,1989,92.7
+Armenia,1989,99.7
+Azerbaijan,1989,97.3
+Belarus,1989,99.9
+Bolivia,1989,42.6
+Bosnia and Herzegovina,1989,96.6
+Bulgaria,1989,99.3
+Croatia,1989,99.7
+Czech Rep.,1989,100
+Estonia,1989,99
+Georgia,1989,94.6
+Haiti,1989,23
+Hungary,1989,99.4
+Iraq,1989,54
+Jamaica,1989,92
+Kazakhstan,1989,99
+Kenya,1989,50
+Kyrgyzstan,1989,98.8
+Latvia,1989,100
+Lithuania,1989,100
+"Macedonia, FYR",1989,87.8
+Moldova,1989,100
+Poland,1989,99.6
+Portugal,1989,98
+Romania,1989,99.9
+Russia,1989,99.2
+Slovak Republic,1989,100
+Slovenia,1989,99.6
+Tajikistan,1989,93.6
+Uganda,1989,38.3
+Ukraine,1989,99.9
+United States,1989,99
+Albania,1990,93
+Armenia,1990,99.7
+Azerbaijan,1990,97.3
+Bahamas,1990,99
+Belarus,1990,99.9
+Bosnia and Herzegovina,1990,97
+Bulgaria,1990,99.1
+China,1990,94
+Colombia,1990,93.7
+Croatia,1990,99.8
+Czech Rep.,1990,100
+Gambia,1990,44.1
+Georgia,1990,96.6
+Hungary,1990,99.4
+Indonesia,1990,40.7
+Japan,1990,100
+Jordan,1990,87.2
+Kazakhstan,1990,99
+Kyrgyzstan,1990,98.9
+Latvia,1990,100
+Lithuania,1990,100
+"Macedonia, FYR",1990,88.9
+Malaysia,1990,92.8
+Mauritius,1990,91.1
+Mexico,1990,83.8
+Moldova,1990,100
+Nigeria,1990,30.8
+Palau,1990,99
+Paraguay,1990,66
+Poland,1990,99.6
+Romania,1990,99.8
+Russia,1990,99.2
+Samoa,1990,76
+Slovak Republic,1990,100
+Slovenia,1990,99.6
+Sudan,1990,69.4
+Tuvalu,1990,100
+Ukraine,1990,99.9
+Albania,1991,92.6
+Armenia,1991,99.7
+Australia,1991,100
+Azerbaijan,1991,97.2
+Belarus,1991,99.9
+Belize,1991,76.9
+Bosnia and Herzegovina,1991,97.4
+Brazil,1991,69.5
+Bulgaria,1991,99.5
+Cameroon,1991,63.9
+China,1991,93.7
+Croatia,1991,99.8
+Czech Rep.,1991,100
+Dominican Rep.,1991,92.4
+Egypt,1991,36.5
+Georgia,1991,91.3
+Hungary,1991,99.4
+Indonesia,1991,31.7
+Kazakhstan,1991,98.1
+Kyrgyzstan,1991,98.9
+Latvia,1991,100
+Lithuania,1991,100
+"Macedonia, FYR",1991,89.3
+Mauritania,1991,40
+Mauritius,1991,94.4
+Moldova,1991,100
+Myanmar,1991,46.3
+Nepal,1991,7.4
+Pakistan,1991,18.8
+Poland,1991,99.6
+Romania,1991,99.9
+Russia,1991,99.2
+Slovak Republic,1991,100
+Slovenia,1991,99.6
+Tajikistan,1991,90.3
+Tonga,1991,92
+Ukraine,1991,99.9
+Albania,1992,86.4
+Algeria,1992,77
+Argentina,1992,95.8
+Armenia,1992,98.3
+Azerbaijan,1992,96.5
+Belarus,1992,99.9
+Bulgaria,1992,99.8
+China,1992,84.1
+Costa Rica,1992,98
+Croatia,1992,99.8
+Czech Rep.,1992,100
+Egypt,1992,40.7
+Estonia,1992,99
+Georgia,1992,91.1
+Guinea,1992,30.5
+Honduras,1992,46.9
+Hungary,1992,99.5
+Kazakhstan,1992,98.9
+Kyrgyzstan,1992,98.7
+Latvia,1992,100
+Lithuania,1992,100
+"Macedonia, FYR",1992,90.9
+Madagascar,1992,57
+Malawi,1992,54.8
+Mauritius,1992,96.1
+Moldova,1992,100
+Morocco,1992,31
+Namibia,1992,68.2
+Niger,1992,14.9
+Panama,1992,85.8
+Peru,1992,52.5
+Poland,1992,99.6
+Romania,1992,99.7
+Russia,1992,99.1
+Rwanda,1992,25.8
+Slovak Republic,1992,100
+Slovenia,1992,99.5
+Tanzania,1992,43.9
+Ukraine,1992,99.9
+"Yemen, Rep.",1992,15.9
+Zambia,1992,50.5
+Albania,1993,87.2
+Armenia,1993,95.5
+Austria,1993,100
+Azerbaijan,1993,96.3
+Belarus,1993,99.9
+Bulgaria,1993,99
+Burkina Faso,1993,41.5
+Chile,1993,99.4
+China,1993,83.6
+Croatia,1993,99.8
+Cuba,1993,99.8
+Czech Rep.,1993,100
+El Salvador,1993,87.4
+Estonia,1993,99.1
+Finland,1993,100
+France,1993,99
+Georgia,1993,90.8
+Ghana,1993,43.8
+Hungary,1993,99.4
+India,1993,34.2
+Kazakhstan,1993,98.6
+Kenya,1993,45.4
+Kyrgyzstan,1993,98.3
+Latvia,1993,100
+Lesotho,1993,60.9
+Lithuania,1993,100
+"Macedonia, FYR",1993,93.3
+Malta,1993,98
+Mauritius,1993,96.2
+Moldova,1993,100
+Nicaragua,1993,61
+Panama,1993,86.9
+Philippines,1993,52.8
+Poland,1993,99.6
+Romania,1993,98.9
+Russia,1993,99.1
+Senegal,1993,47.2
+Slovak Republic,1993,100
+Slovenia,1993,99.7
+Sri Lanka,1993,94.1
+Syria,1993,76.9
+Turkey,1993,75.9
+Ukraine,1993,99.9
+Albania,1994,89.1
+Armenia,1994,93.3
+Azerbaijan,1994,99.6
+Bangladesh,1994,9.5
+Belarus,1994,99.9
+Bhutan,1994,14.9
+Bolivia,1994,47.2
+Brunei,1994,98
+Bulgaria,1994,99
+Chile,1994,99.5
+Cote d'Ivoire,1994,45.4
+Croatia,1994,99.8
+Czech Rep.,1994,100
+Ecuador,1994,98.7
+Equatorial Guinea,1994,5
+Estonia,1994,99.3
+Hungary,1994,99.4
+Indonesia,1994,36.5
+Kazakhstan,1994,98.3
+Kiribati,1994,72
+Kyrgyzstan,1994,98.2
+Latvia,1994,100
+Lithuania,1994,100
+"Macedonia, FYR",1994,93.4
+Maldives,1994,90
+Mauritius,1994,97
+Moldova,1994,100
+New Zealand,1994,95
+Panama,1994,88
+Poland,1994,99.6
+Romania,1994,99
+Russia,1994,99.1
+Slovak Republic,1994,100
+Slovenia,1994,99.7
+Solomon Islands,1994,85
+Swaziland,1994,56
+Tajikistan,1994,82.6
+Ukraine,1994,99.9
+Vanuatu,1994,87
+Zimbabwe,1994,69.2
+Albania,1995,89.1
+Antigua and Barbuda,1995,100
+Armenia,1995,93.1
+Azerbaijan,1995,99.7
+Bahamas,1995,99
+Bahrain,1995,97.6
+Barbados,1995,100
+Belarus,1995,99.9
+Belize,1995,79
+Bulgaria,1995,98.9
+Canada,1995,98
+Cape Verde,1995,54
+Central African Republic,1995,45.9
+Chile,1995,99.5
+China,1995,89.3
+Colombia,1995,84.6
+Croatia,1995,99.9
+Czech Rep.,1995,100
+Dominica,1995,100
+Egypt,1995,46.3
+Eritrea,1995,20.6
+Estonia,1995,99.5
+Grenada,1995,100
+Guatemala,1995,34.8
+Guinea-Bissau,1995,25
+Guyana,1995,93
+Haiti,1995,20.6
+Hungary,1995,99.4
+Indonesia,1995,49.7
+Kazakhstan,1995,99.6
+Kyrgyzstan,1995,98
+Latvia,1995,100
+Libya,1995,94.4
+Lithuania,1995,100
+"Macedonia, FYR",1995,94.1
+Malaysia,1995,96.1
+Moldova,1995,100
+Morocco,1995,39.6
+New Zealand,1995,100
+Oman,1995,91.1
+Panama,1995,88.3
+Papua New Guinea,1995,42
+Poland,1995,99.6
+Romania,1995,99.1
+Russia,1995,99.1
+Saint Kitts and Nevis,1995,100
+Saint Lucia,1995,100
+Saint Vincent and the Grenadines,1995,100
+Slovak Republic,1995,100
+Slovenia,1995,99.7
+South Africa,1995,82
+Suriname,1995,80
+Tajikistan,1995,80.9
+Trinidad and Tobago,1995,99
+Tunisia,1995,80.5
+Uganda,1995,37.8
+Ukraine,1995,99.9
+United Arab Emirates,1995,99.2
+Vanuatu,1995,89.1
+Albania,1996,91.2
+Angola,1996,22.5
+Antigua and Barbuda,1996,100
+Armenia,1996,95.7
+Azerbaijan,1996,99.7
+Belarus,1996,99.9
+Benin,1996,59.8
+Bosnia and Herzegovina,1996,98.9
+Botswana,1996,87
+Brazil,1996,87.6
+Bulgaria,1996,99.9
+Chile,1996,99.6
+China,1996,93.1
+Comoros,1996,51.6
+Croatia,1996,99.8
+Czech Rep.,1996,100
+Dominican Rep.,1996,95.5
+Estonia,1996,99.6
+Honduras,1996,54.9
+Hungary,1996,99.5
+Jamaica,1996,90
+Japan,1996,100
+Kazakhstan,1996,98.1
+Kuwait,1996,98.1
+Kyrgyzstan,1996,98.1
+Latvia,1996,100
+Lebanon,1996,98
+Lithuania,1996,100
+"Macedonia, FYR",1996,95
+Mali,1996,40
+Moldova,1996,100
+Nepal,1996,9
+Panama,1996,89.9
+Papua New Guinea,1996,53.2
+Paraguay,1996,60.8
+Peru,1996,56.4
+Poland,1996,99.7
+Qatar,1996,98.2
+Romania,1996,99
+Russia,1996,99.1
+Saudi Arabia,1996,91.4
+Slovak Republic,1996,100
+Slovenia,1996,99.8
+Tajikistan,1996,79
+Tanzania,1996,38.2
+Turkmenistan,1996,95.8
+Ukraine,1996,99.9
+Uzbekistan,1996,97.5
+West Bank and Gaza,1996,94.9
+Zambia,1996,46.5
+Albania,1997,98.8
+Argentina,1997,97.2
+Armenia,1997,96.4
+Azerbaijan,1997,99.8
+Bahamas,1997,99
+Bangladesh,1997,8
+Belarus,1997,99.9
+Bosnia and Herzegovina,1997,99.1
+Bulgaria,1997,99.9
+Chad,1997,15
+Chile,1997,99.6
+China,1997,93.8
+Croatia,1997,99.9
+Czech Rep.,1997,100
+Egypt,1997,56.4
+Estonia,1997,99.5
+Guyana,1997,95
+Hungary,1997,99.5
+Indonesia,1997,43.2
+Iran,1997,86.1
+Jamaica,1997,94.6
+Jordan,1997,96.7
+Kazakhstan,1997,97.6
+"Korea, Rep.",1997,100
+Kyrgyzstan,1997,98.1
+Latvia,1997,100
+Lithuania,1997,100
+"Macedonia, FYR",1997,95.6
+Madagascar,1997,47.3
+Mexico,1997,85.7
+Moldova,1997,100
+Mozambique,1997,44.2
+Myanmar,1997,56.4
+Pakistan,1997,18
+Panama,1997,89.5
+Poland,1997,99.7
+Romania,1997,98.3
+Russia,1997,99.1
+Saint Lucia,1997,99.7
+Senegal,1997,46.6
+Slovak Republic,1997,100
+Slovenia,1997,99.7
+Tajikistan,1997,72.6
+Timor-Leste,1997,25.8
+Trinidad and Tobago,1997,99
+Tuvalu,1997,99
+Ukraine,1997,99.9
+United States,1997,99
+Uruguay,1997,99.6
+Venezuela,1997,95.3
+Vietnam,1997,77.1
+"Yemen, Rep.",1997,21.6
+Albania,1998,99.1
+Antigua and Barbuda,1998,100
+Argentina,1998,97.5
+Armenia,1998,97.4
+Azerbaijan,1998,99.8
+Bahamas,1998,99
+Belarus,1998,99.9
+Belize,1998,79
+Bolivia,1998,59.3
+Bosnia and Herzegovina,1998,99.5
+Bulgaria,1998,99.9
+Cambodia,1998,34
+Cameroon,1998,58.2
+Cape Verde,1998,88.5
+Chile,1998,99.7
+Costa Rica,1998,98
+Croatia,1998,99.8
+Czech Rep.,1998,99.9
+Dominica,1998,95
+Egypt,1998,55.2
+El Salvador,1998,90.4
+Estonia,1998,99.6
+Fiji,1998,100
+Georgia,1998,96
+Ghana,1998,44.3
+Grenada,1998,99
+Guyana,1998,94
+Hungary,1998,99.5
+Indonesia,1998,56
+Kazakhstan,1998,98
+Kenya,1998,44.3
+Kiribati,1998,84.98
+Kyrgyzstan,1998,98.5
+Latvia,1998,100
+Lithuania,1998,100
+"Macedonia, FYR",1998,96.6
+Malaysia,1998,96.2
+Marshall Islands,1998,94.9
+Mauritius,1998,98.6
+Moldova,1998,98
+Mongolia,1998,93.6
+Netherlands,1998,100
+Nicaragua,1998,64.6
+Niger,1998,17.6
+Palau,1998,100
+Panama,1998,90
+Paraguay,1998,60.8
+Philippines,1998,56.4
+Poland,1998,99.7
+Portugal,1998,99.7
+Qatar,1998,99
+Romania,1998,99
+Russia,1998,99.1
+Saint Kitts and Nevis,1998,99.4
+Saint Vincent and the Grenadines,1998,98
+Samoa,1998,100
+Singapore,1998,100
+Slovak Republic,1998,100
+Slovenia,1998,99.8
+South Africa,1998,84.4
+Tajikistan,1998,74.1
+Togo,1998,50.5
+Turkey,1998,80.6
+Turks and Caicos Islands,1998,100
+Ukraine,1998,99.9
+United Kingdom,1998,99
+Albania,1999,99
+Argentina,1999,97.5
+Armenia,1999,97.3
+Australia,1999,100
+Azerbaijan,1999,99.7
+Bahamas,1999,99
+Barbados,1999,91
+Belarus,1999,99.9
+Belgium,1999,99.3
+Belize,1999,83.8
+Bosnia and Herzegovina,1999,99.7
+Brunei,1999,99
+Bulgaria,1999,99
+Burkina Faso,1999,30.9
+China,1999,96.8
+Costa Rica,1999,98.2
+Cote d'Ivoire,1999,47.1
+Croatia,1999,99.9
+Cuba,1999,99.9
+Czech Rep.,1999,99.9
+Dominica,1999,99.9
+Dominican Rep.,1999,96
+Ecuador,1999,99.1
+Estonia,1999,99.6
+Georgia,1999,96.9
+Grenada,1999,99
+Guatemala,1999,40.6
+Guinea,1999,34.8
+Hungary,1999,99.5
+India,1999,42.3
+Kazakhstan,1999,99.1
+Kyrgyzstan,1999,98.5
+Latvia,1999,100
+Libya,1999,99
+Lithuania,1999,100
+"Macedonia, FYR",1999,97
+Mauritius,1999,98.5
+"Micronesia, Fed. Sts.",1999,92.8
+Moldova,1999,98
+Nigeria,1999,41.6
+Pakistan,1999,18
+Philippines,1999,46.1
+Poland,1999,99.7
+Romania,1999,99
+Russia,1999,99.1
+Saint Vincent and the Grenadines,1999,99.3
+Senegal,1999,48.3
+Slovak Republic,1999,100
+Slovenia,1999,99.8
+Solomon Islands,1999,85
+Somalia,1999,34.2
+Tajikistan,1999,66.6
+Tanzania,1999,35.8
+Trinidad and Tobago,1999,99.1
+Turks and Caicos Islands,1999,88.2
+Ukraine,1999,99.9
+Uruguay,1999,99.6
+Vanuatu,1999,88
+Zambia,1999,47.1
+Zimbabwe,1999,72.5
+Afghanistan,2e3,12.4
+Albania,2e3,99.1
+Algeria,2e3,92.6
+Antigua and Barbuda,2e3,99.9
+Armenia,2e3,96.8
+Azerbaijan,2e3,84.1
+Bahamas,2e3,99
+Bangladesh,2e3,12.1
+Barbados,2e3,98
+Belarus,2e3,99.9
+Belize,2e3,100
+Bhutan,2e3,23.66
+Bolivia,2e3,68.8
+Bosnia and Herzegovina,2e3,99.6
+Botswana,2e3,94.2
+Bulgaria,2e3,99.8
+Burundi,2e3,25.2
+Cambodia,2e3,31.8
+Cameroon,2e3,60
+Central African Republic,2e3,44.1
+Chad,2e3,16.3
+China,2e3,96.6
+Colombia,2e3,86.4
+Comoros,2e3,61.8
+Cote d'Ivoire,2e3,62.8
+Croatia,2e3,99.9
+Czech Rep.,2e3,99.9
+Dominica,2e3,100
+Dominican Rep.,2e3,97.6
+Egypt,2e3,60.9
+Equatorial Guinea,2e3,64.6
+Estonia,2e3,99.7
+Ethiopia,2e3,5.6
+Fiji,2e3,99
+French Polynesia,2e3,99
+Gabon,2e3,85.5
+Gambia,2e3,54.7
+Georgia,2e3,95.7
+Grenada,2e3,100
+Guinea-Bissau,2e3,34.7
+Guyana,2e3,85.6
+Haiti,2e3,23.8
+Hungary,2e3,99.5
+India,2e3,42.5
+Indonesia,2e3,66.9
+Iran,2e3,89.6
+Iraq,2e3,72.1
+Jamaica,2e3,95.9
+Kazakhstan,2e3,98.3
+"Korea, Dem. Rep.",2e3,96.7
+Kyrgyzstan,2e3,98.6
+Latvia,2e3,100
+Lesotho,2e3,59.8
+Liberia,2e3,50.9
+Lithuania,2e3,100
+"Macedonia, FYR",2e3,97.7
+Madagascar,2e3,46.2
+Malawi,2e3,55.6
+Malaysia,2e3,96.6
+Moldova,2e3,98
+Mongolia,2e3,96.6
+Montenegro,2e3,99.1
+Namibia,2e3,75.5
+Nepal,2e3,11.9
+Niger,2e3,15.7
+Northern Mariana Islands,2e3,99.6
+Oman,2e3,94.7
+Papua New Guinea,2e3,41
+Peru,2e3,59.3
+Philippines,2e3,58
+Poland,2e3,99.8
+Portugal,2e3,99.7
+Romania,2e3,99
+Russia,2e3,99.2
+Rwanda,2e3,31.3
+Saint Kitts and Nevis,2e3,99.4
+Saint Lucia,2e3,100
+Saint Vincent and the Grenadines,2e3,100
+Sao Tome and Principe,2e3,78.6
+Senegal,2e3,57.8
+Serbia,2e3,98
+Sierra Leone,2e3,41.7
+Slovak Republic,2e3,100
+Slovenia,2e3,99.9
+Sri Lanka,2e3,96
+Suriname,2e3,84.5
+Swaziland,2e3,70
+Tajikistan,2e3,71.1
+Thailand,2e3,99.3
+Togo,2e3,48.6
+Tonga,2e3,95.3
+Trinidad and Tobago,2e3,96
+Tunisia,2e3,89.9
+Turkmenistan,2e3,97.2
+Ukraine,2e3,99.9
+Uzbekistan,2e3,95.6
+Venezuela,2e3,94
+Vietnam,2e3,69.6
+West Bank and Gaza,2e3,97.4
+Albania,2001,99
+Angola,2001,44.7
+Antigua and Barbuda,2001,100
+Armenia,2001,98.4
+Azerbaijan,2001,88
+Bangladesh,2001,11.6
+Belarus,2001,99.9
+Benin,2001,65.5
+Bosnia and Herzegovina,2001,99.8
+Brazil,2001,96.45
+Bulgaria,2001,98.9
+Canada,2001,98.3
+Chile,2001,99.8
+China,2001,97.3
+"Congo, Dem. Rep.",2001,60.7
+Costa Rica,2001,98
+Croatia,2001,99.9
+Cuba,2001,99.9
+Czech Rep.,2001,99.9
+Dominica,2001,100
+Estonia,2001,99.7
+Georgia,2001,96.7
+Guam,2001,99.4
+Guyana,2001,93.8
+Honduras,2001,55.7
+Hungary,2001,99.6
+Jamaica,2001,98.5
+Kazakhstan,2001,98.5
+Kyrgyzstan,2001,98.7
+Laos,2001,19.4
+Latvia,2001,99
+Lithuania,2001,100
+"Macedonia, FYR",2001,97.6
+Malaysia,2001,96.8
+Maldives,2001,70.3
+Mali,2001,40.6
+Mauritania,2001,56.9
+"Micronesia, Fed. Sts.",2001,87.7
+Moldova,2001,99
+Montenegro,2001,99.5
+Myanmar,2001,57
+Nepal,2001,10.9
+New Zealand,2001,96.6
+Nicaragua,2001,66.9
+Pakistan,2001,23
+Papua New Guinea,2001,39
+Poland,2001,99.8
+Portugal,2001,99.9
+Romania,2001,96.5
+Russia,2001,99.3
+Saint Vincent and the Grenadines,2001,100
+Serbia,2001,98.2
+Slovak Republic,2001,99.4
+Slovenia,2001,99.9
+Tonga,2001,95
+Trinidad and Tobago,2001,99.5
+Uganda,2001,39
+Ukraine,2001,99.9
+Albania,2002,98
+Algeria,2002,95.9
+American Samoa,2002,100
+Antigua and Barbuda,2002,99
+Argentina,2002,98.9
+Armenia,2002,98.8
+Aruba,2002,96
+Bahamas,2002,99
+Belarus,2002,99.9
+Belize,2002,97
+Bolivia,2002,65.1
+Bosnia and Herzegovina,2002,99.8
+Bulgaria,2002,99.2
+Chile,2002,99.8
+China,2002,96.7
+Croatia,2002,99.9
+Czech Rep.,2002,99.9
+Dominica,2002,100
+Dominican Rep.,2002,98.7
+Eritrea,2002,28.3
+Estonia,2002,99.6
+Fiji,2002,99
+Georgia,2002,97.4
+Grenada,2002,100
+Guatemala,2002,41.4
+Hungary,2002,99.6
+Indonesia,2002,68.4
+Ireland,2002,100
+Jamaica,2002,96.9
+Jordan,2002,99.5
+Kazakhstan,2002,98.9
+Kiribati,2002,88.9
+Kuwait,2002,100
+Kyrgyzstan,2002,98.8
+Latvia,2002,100
+Lithuania,2002,100
+Luxembourg,2002,99.9
+"Macedonia, FYR",2002,98.2
+Malawi,2002,60.5
+Malaysia,2002,97
+Marshall Islands,2002,95
+Moldova,2002,99.6
+Montenegro,2002,99.7
+Pakistan,2002,23
+Palau,2002,100
+Poland,2002,99.8
+Qatar,2002,100
+Romania,2002,98.5
+Russia,2002,99.3
+Saint Kitts and Nevis,2002,99.5
+Saint Lucia,2002,98
+Saint Vincent and the Grenadines,2002,100
+Senegal,2002,58
+Serbia,2002,98.1
+Slovak Republic,2002,99.4
+Slovenia,2002,99.8
+Somalia,2002,24.8
+Suriname,2002,90
+Swaziland,2002,74
+Timor-Leste,2002,23.7
+Trinidad and Tobago,2002,96.6
+Turkmenistan,2002,97.2
+Tuvalu,2002,100
+Ukraine,2002,99.9
+Vietnam,2002,85
+Virgin Islands (U.S.),2002,98.3
+Zambia,2002,43.4
+Afghanistan,2003,14.3
+Albania,2003,98.8
+Antigua and Barbuda,2003,99
+Argentina,2003,98.7
+Armenia,2003,99.2
+Australia,2003,100
+Bangladesh,2003,13.9
+Barbados,2003,100
+Belarus,2003,99.9
+Bhutan,2003,56.05
+Bolivia,2003,66.8
+Bosnia and Herzegovina,2003,99.7
+Brazil,2003,96.6
+Bulgaria,2003,99.2
+Burkina Faso,2003,37.8
+China,2003,95.86
+Croatia,2003,99.9
+Cyprus,2003,99
+Czech Rep.,2003,99.9
+Djibouti,2003,60.57
+Dominica,2003,100
+Egypt,2003,69.4
+El Salvador,2003,92.4
+Estonia,2003,99.7
+Finland,2003,99.9
+Georgia,2003,99
+Ghana,2003,47.1
+Guinea,2003,55.5
+Guyana,2003,94
+Hungary,2003,99.6
+Indonesia,2003,66.3
+Ireland,2003,100
+Italy,2003,99
+Jamaica,2003,97.4
+Kazakhstan,2003,99.4
+Kenya,2003,41.6
+"Korea, Rep.",2003,100
+Kyrgyzstan,2003,98.9
+Latvia,2003,99
+Lithuania,2003,100
+Luxembourg,2003,99.9
+"Macedonia, FYR",2003,98.9
+Malaysia,2003,97.4
+Mauritius,2003,98.4
+Mexico,2003,95
+Moldova,2003,99.4
+Mongolia,2003,97.3
+Montenegro,2003,99.7
+Mozambique,2003,47.7
+Myanmar,2003,67.5
+Netherlands,2003,100
+Nigeria,2003,35.2
+Panama,2003,92.5
+Philippines,2003,59.8
+Poland,2003,99.8
+Russia,2003,99.4
+Saint Lucia,2003,99
+Sao Tome and Principe,2003,76.4
+Serbia,2003,98.5
+Slovenia,2003,99.9
+South Africa,2003,91.2
+Timor-Leste,2003,18.4
+Togo,2003,60.8
+Trinidad and Tobago,2003,99.7
+Turkey,2003,83
+Turkmenistan,2003,99.5
+Ukraine,2003,99.9
+United Arab Emirates,2003,100
+United States,2003,99.3
+Vanuatu,2003,88
+Venezuela,2003,95
+Virgin Islands (U.S.),2003,98.5
+"Yemen, Rep.",2003,26.8
+Albania,2004,99.3
+Antigua and Barbuda,2004,100
+Argentina,2004,98.7
+Armenia,2004,99.5
+Bahamas,2004,99
+Bangladesh,2004,13.2
+Barbados,2004,100
+Belarus,2004,99.9
+Belize,2004,87.8
+Bosnia and Herzegovina,2004,99.9
+Brunei,2004,99.6
+Bulgaria,2004,99.4
+Cameroon,2004,61.8
+Canada,2004,100
+Chad,2004,14.4
+Chile,2004,99.8
+China,2004,97.3
+Costa Rica,2004,98.5
+Cote d'Ivoire,2004,68
+Croatia,2004,99.9
+Cuba,2004,99.9
+Czech Rep.,2004,99.9
+Dominica,2004,100
+Ecuador,2004,98.2
+Estonia,2004,99.8
+Georgia,2004,99.7
+Hungary,2004,99.6
+Indonesia,2004,71.5
+Japan,2004,99.8
+Kazakhstan,2004,99.4
+"Korea, Dem. Rep.",2004,97.1
+Kyrgyzstan,2004,98.2
+Latvia,2004,100
+Lebanon,2004,98
+Lesotho,2004,55.4
+Lithuania,2004,100
+"Macao, China",2004,100
+"Macedonia, FYR",2004,99
+Madagascar,2004,51.3
+Malawi,2004,56.1
+Maldives,2004,84
+Moldova,2004,99.3
+Mongolia,2004,99.7
+Montenegro,2004,99.6
+Morocco,2004,62.6
+Nepal,2004,19.8
+Panama,2004,91.3
+Papua New Guinea,2004,42
+Paraguay,2004,77.1
+Peru,2004,73.4
+Poland,2004,99.8
+Puerto Rico,2004,99.8
+Romania,2004,98.9
+Russia,2004,99.3
+Saint Kitts and Nevis,2004,100
+Saint Lucia,2004,100
+Samoa,2004,100
+Saudi Arabia,2004,96
+Serbia,2004,98.7
+Singapore,2004,99.7
+Slovak Republic,2004,99.5
+Slovenia,2004,99.8
+Suriname,2004,90
+Syria,2004,89.7
+Tonga,2004,98
+Trinidad and Tobago,2004,99.6
+Turkmenistan,2004,98.5
+Turks and Caicos Islands,2004,100
+Ukraine,2004,99.9
+Uruguay,2004,99.3
+West Bank and Gaza,2004,98.3
+Albania,2005,99.8
+Antigua and Barbuda,2005,99.9
+Argentina,2005,99.1
+Armenia,2005,97.8
+Bahrain,2005,99
+Barbados,2005,100
+Belarus,2005,100
+Belize,2005,89.3
+Benin,2005,75
+Bosnia and Herzegovina,2005,100
+Brunei,2005,99.7
+Bulgaria,2005,99.4
+Burundi,2005,33.6
+Cambodia,2005,43.8
+Cape Verde,2005,77.5
+Cayman Islands,2005,100
+Chile,2005,99.8
+China,2005,97.5
+Colombia,2005,96.4
+"Congo, Rep.",2005,83.4
+Cote d'Ivoire,2005,55.1
+Croatia,2005,99.9
+Cuba,2005,99.9
+Czech Rep.,2005,99.9
+Dominica,2005,99
+Egypt,2005,74.2
+Estonia,2005,99.8
+Ethiopia,2005,5.7
+Georgia,2005,98.3
+Grenada,2005,100
+Guinea,2005,38
+Guyana,2005,94
+"Hong Kong, China",2005,100
+Hungary,2005,99.6
+Iran,2005,97.3
+Jamaica,2005,96.7
+Kazakhstan,2005,99.4
+Kiribati,2005,63
+Kyrgyzstan,2005,97.9
+Latvia,2005,100
+Lithuania,2005,100
+"Macedonia, FYR",2005,98.1
+Malaysia,2005,98
+Mauritius,2005,99.2
+Moldova,2005,99.5
+Mongolia,2005,99.2
+Oman,2005,98
+Pakistan,2005,31
+Panama,2005,91.1
+Poland,2005,99.9
+Romania,2005,98.1
+Russia,2005,99.4
+Rwanda,2005,38.6
+Saint Kitts and Nevis,2005,100
+Saint Lucia,2005,100
+Saint Vincent and the Grenadines,2005,100
+Senegal,2005,51.9
+Sierra Leone,2005,43.2
+Slovak Republic,2005,99.5
+Slovenia,2005,99.9
+Tajikistan,2005,83.4
+Tanzania,2005,43.4
+Turkmenistan,2005,99.7
+Turks and Caicos Islands,2005,99.1
+Ukraine,2005,99.8
+West Bank and Gaza,2005,97
+Afghanistan,2006,18.9
+Albania,2006,99
+Algeria,2006,95.2
+Antigua and Barbuda,2006,99.9
+Argentina,2006,99.4
+Armenia,2006,99.7
+Azerbaijan,2006,88
+Bahamas,2006,99
+Bangladesh,2006,20.1
+Barbados,2006,100
+Belarus,2006,99.9
+Belize,2006,95.8
+Benin,2006,74
+Bosnia and Herzegovina,2006,99.6
+Brazil,2006,97
+Bulgaria,2006,99.4
+Burkina Faso,2006,53.5
+Cameroon,2006,63
+Central African Republic,2006,53.4
+Chile,2006,99.8
+China,2006,97.8
+Cote d'Ivoire,2006,56.8
+Croatia,2006,99.9
+Czech Rep.,2006,99.9
+Djibouti,2006,92.9
+Dominican Rep.,2006,95.9
+Estonia,2006,99.8
+Gambia,2006,56.8
+Georgia,2006,99.8
+Germany,2006,100
+Ghana,2006,49.7
+Guinea-Bissau,2006,38.8
+Guyana,2006,83.3
+Haiti,2006,26.1
+Honduras,2006,66.9
+Hungary,2006,99.7
+India,2006,46.6
+Iraq,2006,88.5
+Jamaica,2006,94.5
+Kazakhstan,2006,99.8
+Kyrgyzstan,2006,97.6
+Laos,2006,20.3
+Latvia,2006,100
+Lithuania,2006,100
+"Macedonia, FYR",2006,99
+Malawi,2006,53.6
+Mali,2006,49
+Malta,2006,100
+Mexico,2006,93.4
+Moldova,2006,99.6
+Montenegro,2006,98.8
+Nepal,2006,18.7
+Niger,2006,17.7
+Oman,2006,98.1
+Panama,2006,91
+Papua New Guinea,2006,53
+Peru,2006,71
+Romania,2006,98.2
+Russia,2006,99.5
+Saint Lucia,2006,97.9
+Sao Tome and Principe,2006,80.7
+Serbia,2006,99
+Slovak Republic,2006,99.5
+Slovenia,2006,99.9
+Somalia,2006,33
+Sudan,2006,49.2
+Suriname,2006,89.8
+Swaziland,2006,74.3
+Switzerland,2006,100
+Syria,2006,93
+Thailand,2006,97.3
+Togo,2006,62
+Trinidad and Tobago,2006,97.8
+Tunisia,2006,94.6
+Turkmenistan,2006,99.5
+Turks and Caicos Islands,2006,100
+Uganda,2006,41.9
+Ukraine,2006,99.9
+Uzbekistan,2006,99.9
+Vietnam,2006,87.7
+West Bank and Gaza,2006,98.9
+"Yemen, Rep.",2006,35.7
+Zimbabwe,2006,68.5
+Angola,2007,47.3
+Antigua and Barbuda,2007,100
+Argentina,2007,99.4
+Armenia,2007,99.9
+Bahamas,2007,99
+Bangladesh,2007,18
+Barbados,2007,100
+Belarus,2007,99.9
+Belize,2007,94.6
+Bhutan,2007,71.4
+Botswana,2007,94.6
+Bulgaria,2007,99.6
+Canada,2007,100
+Chile,2007,99.7
+China,2007,98.4
+"Congo, Dem. Rep.",2007,74
+Croatia,2007,99.9
+Cuba,2007,99.9
+Czech Rep.,2007,99.9
+Dominica,2007,94
+Dominican Rep.,2007,97.8
+Georgia,2007,99.8
+Ghana,2007,55.2
+Grenada,2007,98.8
+Guinea,2007,46.1
+Guyana,2007,83.3
+Hungary,2007,99.6
+Indonesia,2007,79.4
+Iraq,2007,79.7
+Jordan,2007,99.1
+Kazakhstan,2007,99.5
+Kuwait,2007,100
+Kyrgyzstan,2007,98.4
+Liberia,2007,46.3
+"Macedonia, FYR",2007,99.6
+Malaysia,2007,98.6
+Marshall Islands,2007,86.2
+Mauritania,2007,60.9
+Mexico,2007,93.7
+Moldova,2007,99.6
+Montenegro,2007,100
+Myanmar,2007,63.9
+Namibia,2007,81.4
+Nicaragua,2007,73.7
+Oman,2007,98.6
+Pakistan,2007,38.8
+Palau,2007,100
+Panama,2007,91.5
+Romania,2007,98.8
+Russia,2007,99.6
+Saint Kitts and Nevis,2007,100
+Saint Lucia,2007,100
+Saint Vincent and the Grenadines,2007,100
+Serbia,2007,99.2
+Slovak Republic,2007,99.2
+Slovenia,2007,99.9
+Solomon Islands,2007,70.1
+Sri Lanka,2007,98.6
+Swaziland,2007,69
+Tajikistan,2007,88.4
+Turkey,2007,89.3
+Tuvalu,2007,97.9
+Ukraine,2007,98.7
+Vanuatu,2007,74
+Zambia,2007,46.5
+Afghanistan,2008,24
+Antigua and Barbuda,2008,100
+Argentina,2008,94.8
+Armenia,2008,99.9
+Bahrain,2008,97.4
+Belarus,2008,99.9
+Belize,2008,94.9
+Bolivia,2008,71.1
+Bulgaria,2008,99.6
+Chile,2008,99.85
+China,2008,99.1
+Costa Rica,2008,99.1
+Croatia,2008,99.9
+Cuba,2008,99.9
+Czech Rep.,2008,99.9
+Dominica,2008,100
+Egypt,2008,78.9
+El Salvador,2008,95.5
+Fiji,2008,99
+Georgia,2008,99.8
+Ghana,2008,57.1
+Hungary,2008,99.5
+India,2008,52.7
+Indonesia,2008,74.86
+Jamaica,2008,98
+Kazakhstan,2008,99.8
+Kiribati,2008,65
+Kyrgyzstan,2008,98.5
+Libya,2008,99.8
+"Macedonia, FYR",2008,99.7
+"Micronesia, Fed. Sts.",2008,92
+Moldova,2008,99.5
+Mongolia,2008,99.4
+Mozambique,2008,55.3
+Nigeria,2008,38.9
+Palau,2008,100
+Paraguay,2008,81.9
+Philippines,2008,62.2
+Romania,2008,98.7
+Russia,2008,99.6
+Rwanda,2008,52.1
+Saint Kitts and Nevis,2008,100
+Saint Vincent and the Grenadines,2008,99.2
+Saudi Arabia,2008,97
+Sierra Leone,2008,42.4
+Slovak Republic,2008,99.5
+Slovenia,2008,99.9
+Tonga,2008,98
+Turkey,2008,91.3
+United Arab Emirates,2008,100
+Albania,2009,99.3
+Argentina,2009,97.9
+Bangladesh,2009,24.4
+Belarus,2009,99.9
+Brunei,2009,99.9
+Bulgaria,2009,99.6
+Central African Republic,2009,43.7
+China,2009,99.3
+Costa Rica,2009,99.17
+Croatia,2009,99.9
+Cuba,2009,99.9
+Czech Rep.,2009,99.9
+Georgia,2009,99.9
+Guatemala,2009,51.4
+Guyana,2009,91.9
+Hungary,2009,99.6
+Kenya,2009,43.8
+"Korea, Dem. Rep.",2009,100
+Kyrgyzstan,2009,98.5
+Lesotho,2009,61.5
+"Macedonia, FYR",2009,99.8
+Madagascar,2009,43.9
+Maldives,2009,94.8
+Mexico,2009,95.3
+Moldova,2009,99.7
+Oman,2009,99
+Panama,2009,88.5
+Peru,2009,82.5
+Qatar,2009,100
+Romania,2009,98.5
+Russia,2009,99.7
+Samoa,2009,80.8
+Sao Tome and Principe,2009,81.7
+Slovak Republic,2009,99.5
+Slovenia,2009,99.9
+Syria,2009,96.2
+Tajikistan,2009,83
+Thailand,2009,99.4
+Turkey,2009,95
+Uruguay,2009,99.7
+Zimbabwe,2009,60.2
+Armenia,2010,99.5
+Bangladesh,2010,26.5
+Bhutan,2010,64.5
+Burundi,2010,60.3
+Cambodia,2010,71
+Chad,2010,22.6759730167
+Colombia,2010,97.7
+"Congo, Dem. Rep.",2010,79.3
+Costa Rica,2010,99.26
+Croatia,2010,100
+Cuba,2010,99.9
+Gambia,2010,56.7
+Guinea-Bissau,2010,44
+Indonesia,2010,82.2
+Laos,2010,37
+Mongolia,2010,99.8
+Peru,2010,83.8
+Rwanda,2010,69
+Swaziland,2010,82
+Tanzania,2010,48.9
+Timor-Leste,2010,29.3
+Togo,2010,60.1

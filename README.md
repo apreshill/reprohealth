@@ -1,38 +1,72 @@
-# reprohealth
-Excerpts from Gapminder and World Bank data with indicators for women's health
 
-# Data sources
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+reprohealth
+===========
 
-- [World Bank: Life expectancy at birth, female (years)](https://data.worldbank.org/indicator/SP.DYN.LE00.FE.IN)
+The goal of reprohealth is to ...
 
-- [World Bank: Contraceptive prevalence, any methods (% of women ages 15-49)](https://data.worldbank.org/indicator/SP.DYN.CONU.ZS)
+Installation
+------------
 
-- [World Bank: Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN)
+<!--You can install the released version of reprohealth from [CRAN](https://CRAN.R-project.org) with:
 
-- [World Bank: Wanted fertility rate (births per woman)](https://data.worldbank.org/indicator/SP.DYN.WFRT)
+``` r
+install.packages("reprohealth")
+```
+-->
+You can install the development version from [GitHub](https://github.com/) with:
 
-- [World Bank: Births attended by skilled health staff (% of total)](https://data.worldbank.org/indicator/SH.STA.BRTC.ZS)
+``` r
+# install.packages("remotes")
+remotes::install_github("apreshill/reprohealth")
+```
 
-- [World Bank: Maternal mortality ratio (modeled estimate, per 100,000 live births)](https://data.worldbank.org/indicator/SH.STA.MMRT)
+Example
+-------
 
-- [World Bank: School enrollment, primary and secondary (gross), gender parity index (GPI)](https://data.worldbank.org/indicator/SE.ENR.PRSC.FM.ZS)
-  - "The Gender Parity Index (GPI) indicates parity between girls and boys. Gender parity index for gross enrollment ratio in primary and secondary education is the ratio of girls to boys enrolled at primary and secondary levels in public and private schools. A GPI of less than 1 suggests girls are more disadvantaged than boys in learning opportunities and a GPI of greater than 1 suggests the other way around. Eliminating gender disparities in education would help increase the status and capabilities of women."
+This is a basic example which shows you how to solve a common problem:
 
-- [Gapminder: Children per woman (total fertility rate)](https://www.gapminder.org/data/documentation/gd008/)
+``` r
+## basic example code
+```
 
-- [Gapminder: Average age at 1st marriage (girls)](https://www.gapminder.org/data/documentation/gd009/)
+Data sources
+============
 
-# Resources
+-   [World Bank: Life expectancy at birth, female (years)](https://data.worldbank.org/indicator/SP.DYN.LE00.FE.IN)
 
-- [WHO's short list of reproductive health indicators for global monitoring](https://www.measureevaluation.org/prh/rh_indicators/family-planning/global/whos-short-list-of-reproductive-health-indicators-for-global-monitoring)
+-   [World Bank: Contraceptive prevalence, any methods (% of women ages 15-49)](https://data.worldbank.org/indicator/SP.DYN.CONU.ZS)
 
-- [R package for accessing World Bank data](https://cran.r-project.org/web/packages/wbstats/)
-  - [Vignette](https://cran.r-project.org/web/packages/wbstats/vignettes/Using_the_wbstats_package.html)
+-   [World Bank: Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN)
 
-- [R package for Gapminder data excerpts (by Jenny Bryan)](https://github.com/jennybc/gapminder)
+-   [World Bank: Wanted fertility rate (births per woman)](https://data.worldbank.org/indicator/SP.DYN.WFRT)
 
-- [Gapminder New data: Dramatic increase in girls’ age of marriage](https://www.gapminder.org/data-blog/dramatic-changes-in-girls’-age-at-first-marriage/)
+-   [World Bank: Births attended by skilled health staff (% of total)](https://data.worldbank.org/indicator/SH.STA.BRTC.ZS)
 
-- [Gapminder: Maternal mortality](https://www.gapminder.org/news/gapcast-7-maternal-mortality/)
+-   [World Bank: Maternal mortality ratio (modeled estimate, per 100,000 live births)](https://data.worldbank.org/indicator/SH.STA.MMRT)
 
-- [Our World in Data: Maternal Mortality](https://ourworldindata.org/maternal-mortality)
+-   [World Bank: School enrollment, primary and secondary (gross), gender parity index (GPI)](https://data.worldbank.org/indicator/SE.ENR.PRSC.FM.ZS)
+-   "The Gender Parity Index (GPI) indicates parity between girls and boys. Gender parity index for gross enrollment ratio in primary and secondary education is the ratio of girls to boys enrolled at primary and secondary levels in public and private schools. A GPI of less than 1 suggests girls are more disadvantaged than boys in learning opportunities and a GPI of greater than 1 suggests the other way around. Eliminating gender disparities in education would help increase the status and capabilities of women."
+
+-   [Organisation for Economic Co-operation and Development (OECD): Length of maternity leave, parental leave and paid father-specific leave](http://www.oecd.org/gender/data/length-of-maternity-leave-parental-leave-and-paid-father-specific-leave.htm)
+
+-   [Gapminder: Children per woman (total fertility rate)](https://www.gapminder.org/data/documentation/gd008/)
+    -   "1950 to 2014: In most cases we use the latest UN estimates from World Population Prospects 2017 published in the file with Annually interpolated demographic indicators, called `WPP2017_INT_F01_ANNUAL_DEMOGRAPHIC_INDICATORS.xlsx`, accessed on September 2, 2017."
+    -   Removed years &gt;= 2015, "2015 – 2099: We use the UN forecast of future fertility rate in all countries, called median fertility variant."
+-   [Gapminder: Average age at 1st marriage (girls)](https://www.gapminder.org/data/documentation/gd009/)
+
+Resources
+=========
+
+-   [WHO's short list of reproductive health indicators for global monitoring](https://www.measureevaluation.org/prh/rh_indicators/family-planning/global/whos-short-list-of-reproductive-health-indicators-for-global-monitoring)
+
+-   [R package for accessing World Bank data](https://cran.r-project.org/web/packages/wbstats/)
+-   [Vignette](https://cran.r-project.org/web/packages/wbstats/vignettes/Using_the_wbstats_package.html)
+
+-   [R package for Gapminder data excerpts (by Jenny Bryan)](https://github.com/jennybc/gapminder)
+
+-   [Gapminder New data: Dramatic increase in girls’ age of marriage](https://www.gapminder.org/data-blog/dramatic-changes-in-girls’-age-at-first-marriage/)
+
+-   [Gapminder: Maternal mortality](https://www.gapminder.org/news/gapcast-7-maternal-mortality/)
+
+-   [Our World in Data: Maternal Mortality](https://ourworldindata.org/maternal-mortality)
